@@ -325,7 +325,6 @@ PRODUCT_PACKAGES += \
     CarrierConfigResCommon_Vendor \
     FrameworksResCommon_Vendor \
     FrameworksResTarget_Vendor \
-    NcmTetheringOverlay \
     SecureElementResTarget_Vendor \
     SettingsResCommon_Vendor \
     SystemUIResCommon_Vendor \
